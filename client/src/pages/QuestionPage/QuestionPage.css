@@ -1,0 +1,29 @@
+.quesPage{
+    width: 75vw;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+ .ansForm{
+    border: 2px solid #E89C84;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 50px;
+} 
+.othersAnsH{
+    display: flex;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 500;
+}
+.hLine1{
+    width: 350px;
+margin-left: 20px;
+margin-right: 20px;
+;
+}
+
+.hLine3{
+    width: 350px;
+margin-left: 20px;
+margin-right: 20px;
+}

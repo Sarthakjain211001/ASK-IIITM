@@ -1,0 +1,44 @@
+.ques-card{
+    border: 2px solid #E89C84;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.authorInfo{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: flex-start;
+}
+.quesProfImg{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.authorName{
+    margin-right: 20px;
+}
+.postDate{
+
+}
+.tag{
+    /* border: 2px solid red; */
+    margin-right: 5px;
+}
+.tags{
+    display: flex;
+}
+.quesCardHeader{
+    height: 45px;
+}
+.questionImage{
+    width: 350px;
+    height: 350px;
+    object-fit: contain;
+    
+}
+
+.quesTitle{
+display: flex;
+justify-content: space-between;
+}

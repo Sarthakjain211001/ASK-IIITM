@@ -1,0 +1,11 @@
+.ans-card{
+    margin-top: 20px;
+}
+.ansDescRep{
+    display: flex;
+    justify-content: space-between;
+}
+#reportFlex{
+    display:flex;
+    flex-direction: row;
+}

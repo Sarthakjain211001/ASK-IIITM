@@ -1,0 +1,59 @@
+.cont{
+    /* width: 100%; */
+    /* margin-right: 0; */
+    overflow: hidden;
+}
+.quesList{ 
+    width: 75%;
+    /* border: 3px solid red; */
+    padding-right: 0px;
+}
+.sideMenu{
+    width: 25%;
+    /* border: 1px solid green; */
+    background-color: rgb(246, 246, 246);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* flex: 50%; */
+}
+.first{
+    display: flex;
+    flex-direction: column;
+height: 47vh;
+margin-bottom: 1vh;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+height: 45vh;
+}
+.fList{
+    height: 47vh;
+    overflow: auto;
+    background-color: antiquewhite;
+}
+.sList{
+    height: 45vh;
+    overflow: auto;
+    background-color: rgb(229, 248, 229);
+}
+.shortLH{
+    display: flex;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 500;
+}
+.hLine{
+    width: 80px;
+margin-left: 20px;
+margin-right: 20px;
+;
+}
+
+.hLine2{
+    width: 75px;
+margin-left: 20px;
+margin-right: 20px;
+}

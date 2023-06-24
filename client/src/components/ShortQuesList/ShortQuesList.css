@@ -1,0 +1,8 @@
+.ShortQuesList{
+    /* border: 2px solid red; */
+    padding: 20px;
+    /* padding-right: 0; */
+    height: 100vh;
+    overflow: auto;
+    
+}
